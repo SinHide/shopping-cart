@@ -99,9 +99,7 @@ ESLint 配置在根目录的 `.eslintrc.js` 里。
 
 ## 使用 axios
 
-vue-resource 库使用起来相当方便。  
-
-你可以在单个组件中尝试引入并调用
+vue-resource 库官方已经不再更新，故使用axios作为项目http请求文件。  
 
 
 # 结语  
