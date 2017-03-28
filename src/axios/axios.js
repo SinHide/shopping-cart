@@ -19,16 +19,10 @@ export class AXIOS {
     return axios.post(param.api,{},config);
   }
   reqSuccess(obj,msg){
-    // obj.$message({
-    //   message: msg,
-    //   type: 'success'
-    // });
+
   }
   reqFail(obj,msg){
-    // obj.$message({
-    //   message: msg,
-    //   type: 'success'
-    // });
+
   }
 }
 export default AXIOS;
