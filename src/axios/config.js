@@ -46,7 +46,7 @@ export default{
 
   timeout: 5000,
 
-  withCredentials: false, // default
+  withCredentials: true, // default false
 
   responseType: 'json', // default
 
